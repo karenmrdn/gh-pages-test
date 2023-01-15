@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p style={{ color: "red" }}>TESTINGs</p>
+        <p style={{ color: "red" }}>Main branch</p>
       </header>
     </div>
   );
